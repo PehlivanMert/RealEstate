@@ -1,7 +1,9 @@
-package org.example;
+package org.example.service;
+
+import org.example.model.House;
+import org.example.repository.HouseRepository;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class HouseService {
     private HouseRepository hr = new HouseRepository();

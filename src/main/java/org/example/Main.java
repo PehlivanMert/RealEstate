@@ -1,5 +1,11 @@
 package org.example;
 
+import org.example.model.Home;
+import org.example.model.SummerHouse;
+import org.example.model.Villa;
+import org.example.repository.HouseRepository;
+import org.example.service.HouseService;
+
 import java.util.Arrays;
 
 public class Main {

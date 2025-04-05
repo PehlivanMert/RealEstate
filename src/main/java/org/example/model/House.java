@@ -1,4 +1,4 @@
-package org.example;
+package org.example.model;
 
 abstract public class House {
 private double price;

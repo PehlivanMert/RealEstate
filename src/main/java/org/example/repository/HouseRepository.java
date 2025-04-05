@@ -1,4 +1,9 @@
-package org.example;
+package org.example.repository;
+
+import org.example.model.Home;
+import org.example.model.House;
+import org.example.model.SummerHouse;
+import org.example.model.Villa;
 
 import java.util.ArrayList;
 import java.util.List;
